@@ -11,23 +11,23 @@ images/ – Contains the figures used in the article.
 
 ### **1. Maps – Spatial Analysis of Average Depressed Mood Among Adolescents**
 
-* Overall average depressed mood
-* Rural areas
-* Urban areas
+a. Overall average depressed mood
+b. Rural areas
+c. Urban areas
 
 ### **2. Charts – Sociodemographic Patterns of Depressed Mood**
 
-* Average sadness by age and sex (bar chart)
-* Average sadness by race/color (violin plot)
+a. Average sadness by age and sex (bar chart)
+b. Average sadness by race/color (violin plot)
 
 ### **3. Heatmaps – Connections Between Parental Coercion, Abuse, Aggression and Depressed Mood**
 
-* Coercion by parental figures
-* Abuse by parental figures
-* Physical aggression by parental figures in the last 12 months
+a. Coercion by parental figures
+b. Abuse by parental figures
+c. Physical aggression by parental figures in the last 12 months
 
 ### **4. Flow and Relationship Visualization Techniques – Connections Between Bullying, Motives, Digital Violence and Depressed Mood**
 
-* Sequential links between bullying, motives, and average sadness (Sankey)
-* Flow between social exclusion, bullying, and cyberbullying (parallel categories)
+a. Sequential links between bullying, motives, and average sadness (Sankey)
+b. Flow between social exclusion, bullying, and cyberbullying (parallel categories)
 
